@@ -1,0 +1,25 @@
+[0.773s] Invoking command in '/home/ctk/my_roarm_ws/src/roaram_py_examples': PYTHONPATH=/home/ctk/my_roarm_ws/build/roaram_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ctk/my_roarm_ws/install/roaram_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/roaram_py_examples build --build-base /home/ctk/my_roarm_ws/build/roaram_py_examples/build install --record /home/ctk/my_roarm_ws/build/roaram_py_examples/install.log --single-version-externally-managed install_data
+[0.999s] running egg_info
+[1.014s] writing ../../build/roaram_py_examples/roaram_py_examples.egg-info/PKG-INFO
+[1.014s] writing dependency_links to ../../build/roaram_py_examples/roaram_py_examples.egg-info/dependency_links.txt
+[1.014s] writing entry points to ../../build/roaram_py_examples/roaram_py_examples.egg-info/entry_points.txt
+[1.014s] writing requirements to ../../build/roaram_py_examples/roaram_py_examples.egg-info/requires.txt
+[1.014s] writing top-level names to ../../build/roaram_py_examples/roaram_py_examples.egg-info/top_level.txt
+[1.067s] reading manifest file '../../build/roaram_py_examples/roaram_py_examples.egg-info/SOURCES.txt'
+[1.068s] writing manifest file '../../build/roaram_py_examples/roaram_py_examples.egg-info/SOURCES.txt'
+[1.068s] running build
+[1.068s] running build_py
+[1.068s] copying roaram_py_examples/__init__.py -> /home/ctk/my_roarm_ws/build/roaram_py_examples/build/lib/roaram_py_examples
+[1.068s] copying roaram_py_examples/simple_parameter.py -> /home/ctk/my_roarm_ws/build/roaram_py_examples/build/lib/roaram_py_examples
+[1.068s] running install
+[1.074s] running install_lib
+[1.095s] running install_data
+[1.095s] copying resource/roaram_py_examples -> /home/ctk/my_roarm_ws/install/roaram_py_examples/share/ament_index/resource_index/packages
+[1.096s] copying package.xml -> /home/ctk/my_roarm_ws/install/roaram_py_examples/share/roaram_py_examples
+[1.096s] running install_egg_info
+[1.112s] removing '/home/ctk/my_roarm_ws/install/roaram_py_examples/lib/python3.10/site-packages/roaram_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[1.112s] Copying ../../build/roaram_py_examples/roaram_py_examples.egg-info to /home/ctk/my_roarm_ws/install/roaram_py_examples/lib/python3.10/site-packages/roaram_py_examples-0.0.0-py3.10.egg-info
+[1.113s] running install_scripts
+[1.237s] Installing simple_parameter script to /home/ctk/my_roarm_ws/install/roaram_py_examples/lib/roaram_py_examples
+[1.237s] writing list of installed files to '/home/ctk/my_roarm_ws/build/roaram_py_examples/install.log'
+[1.272s] Invoked command in '/home/ctk/my_roarm_ws/src/roaram_py_examples' returned '0': PYTHONPATH=/home/ctk/my_roarm_ws/build/roaram_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ctk/my_roarm_ws/install/roaram_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/roaram_py_examples build --build-base /home/ctk/my_roarm_ws/build/roaram_py_examples/build install --record /home/ctk/my_roarm_ws/build/roaram_py_examples/install.log --single-version-externally-managed install_data

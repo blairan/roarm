@@ -1,0 +1,6 @@
+source;share/roaram_py_examples/hook/pythonpath.ps1
+source;share/roaram_py_examples/hook/pythonpath.dsv
+source;share/roaram_py_examples/hook/pythonpath.sh
+source;share/roaram_py_examples/hook/ament_prefix_path.ps1
+source;share/roaram_py_examples/hook/ament_prefix_path.dsv
+source;share/roaram_py_examples/hook/ament_prefix_path.sh

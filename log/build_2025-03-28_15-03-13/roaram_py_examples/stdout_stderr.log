@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/roaram_py_examples/roaram_py_examples.egg-info/PKG-INFO
+writing dependency_links to ../../build/roaram_py_examples/roaram_py_examples.egg-info/dependency_links.txt
+writing entry points to ../../build/roaram_py_examples/roaram_py_examples.egg-info/entry_points.txt
+writing requirements to ../../build/roaram_py_examples/roaram_py_examples.egg-info/requires.txt
+writing top-level names to ../../build/roaram_py_examples/roaram_py_examples.egg-info/top_level.txt
+reading manifest file '../../build/roaram_py_examples/roaram_py_examples.egg-info/SOURCES.txt'
+writing manifest file '../../build/roaram_py_examples/roaram_py_examples.egg-info/SOURCES.txt'
+running build
+running build_py
+copying roaram_py_examples/__init__.py -> /home/ctk/my_roarm_ws/build/roaram_py_examples/build/lib/roaram_py_examples
+copying roaram_py_examples/simple_parameter.py -> /home/ctk/my_roarm_ws/build/roaram_py_examples/build/lib/roaram_py_examples
+running install
+running install_lib
+running install_data
+copying resource/roaram_py_examples -> /home/ctk/my_roarm_ws/install/roaram_py_examples/share/ament_index/resource_index/packages
+copying package.xml -> /home/ctk/my_roarm_ws/install/roaram_py_examples/share/roaram_py_examples
+running install_egg_info
+removing '/home/ctk/my_roarm_ws/install/roaram_py_examples/lib/python3.10/site-packages/roaram_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/roaram_py_examples/roaram_py_examples.egg-info to /home/ctk/my_roarm_ws/install/roaram_py_examples/lib/python3.10/site-packages/roaram_py_examples-0.0.0-py3.10.egg-info
+running install_scripts
+Installing simple_parameter script to /home/ctk/my_roarm_ws/install/roaram_py_examples/lib/roaram_py_examples
+writing list of installed files to '/home/ctk/my_roarm_ws/build/roaram_py_examples/install.log'

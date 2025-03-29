@@ -1,0 +1,44 @@
+[0.194s] Invoking command in '/home/ctk/my_roarm_ws/build/roarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ctk/roarm_ws_em0/install/ros2web_widgets:/home/ctk/roarm_ws_em0/install/ros2web_example_py:/home/ctk/roarm_ws_em0/install/roarm_web_app:/home/ctk/roarm_ws_em0/install/ros2web_app:/home/ctk/roarm_ws_em0/install/ros2web:/home/ctk/roarm_ws_em0/install/roarm_driver:/home/ctk/roarm_ws_em0/install/launch_api:/opt/ros/humble /usr/bin/cmake --build /home/ctk/my_roarm_ws/build/roarm_description -- -j8 -l8
+[0.252s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.404s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.476s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.476s] -- Added test 'lint_cmake' to check CMake code style
+[0.477s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.479s] -- Added test 'xmllint' to check XML markup files
+[0.484s] -- Configuring done
+[0.494s] -- Generating done
+[0.496s] -- Build files have been written to: /home/ctk/my_roarm_ws/build/roarm_description
+[0.512s] Invoked command in '/home/ctk/my_roarm_ws/build/roarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ctk/roarm_ws_em0/install/ros2web_widgets:/home/ctk/roarm_ws_em0/install/ros2web_example_py:/home/ctk/roarm_ws_em0/install/roarm_web_app:/home/ctk/roarm_ws_em0/install/ros2web_app:/home/ctk/roarm_ws_em0/install/ros2web:/home/ctk/roarm_ws_em0/install/roarm_driver:/home/ctk/roarm_ws_em0/install/launch_api:/opt/ros/humble /usr/bin/cmake --build /home/ctk/my_roarm_ws/build/roarm_description -- -j8 -l8
+[0.520s] Invoking command in '/home/ctk/my_roarm_ws/build/roarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ctk/roarm_ws_em0/install/ros2web_widgets:/home/ctk/roarm_ws_em0/install/ros2web_example_py:/home/ctk/roarm_ws_em0/install/roarm_web_app:/home/ctk/roarm_ws_em0/install/ros2web_app:/home/ctk/roarm_ws_em0/install/ros2web:/home/ctk/roarm_ws_em0/install/roarm_driver:/home/ctk/roarm_ws_em0/install/launch_api:/opt/ros/humble /usr/bin/cmake --install /home/ctk/my_roarm_ws/build/roarm_description
+[0.528s] -- Install configuration: ""
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/meshes
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/meshes/gripper_link.STL
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/meshes/base_link.STL
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/meshes/link2.STL
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/meshes/link3.STL
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/meshes/link1.STL
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/urdf
+[0.528s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/urdf/roarm.urdf.xacro
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/launch
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/launch/display.launch.py
+[0.528s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/launch/gazebo.launch.py
+[0.528s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/rviz
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/rviz/display.rviz
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/world
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/world/empty.sdf
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/ament_index/resource_index/package_run_dependencies/roarm_description
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/ament_index/resource_index/parent_prefix_path/roarm_description
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/environment/ament_prefix_path.sh
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/environment/ament_prefix_path.dsv
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/environment/path.sh
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/environment/path.dsv
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/local_setup.bash
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/local_setup.sh
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/local_setup.zsh
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/local_setup.dsv
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/package.dsv
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/ament_index/resource_index/packages/roarm_description
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/cmake/roarm_descriptionConfig.cmake
+[0.529s] -- Up-to-date: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/cmake/roarm_descriptionConfig-version.cmake
+[0.529s] -- Installing: /home/ctk/my_roarm_ws/install/roarm_description/share/roarm_description/package.xml
+[0.531s] Invoked command in '/home/ctk/my_roarm_ws/build/roarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ctk/roarm_ws_em0/install/ros2web_widgets:/home/ctk/roarm_ws_em0/install/ros2web_example_py:/home/ctk/roarm_ws_em0/install/roarm_web_app:/home/ctk/roarm_ws_em0/install/ros2web_app:/home/ctk/roarm_ws_em0/install/ros2web:/home/ctk/roarm_ws_em0/install/roarm_driver:/home/ctk/roarm_ws_em0/install/launch_api:/opt/ros/humble /usr/bin/cmake --install /home/ctk/my_roarm_ws/build/roarm_description
